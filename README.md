@@ -1,4 +1,4 @@
-# Indeed-jobs-Classifier
+# Indeed.com-jobs-Classifier
 Objective: Scrapping various jobs on Indeed.com and map them into predefined categories based on job title, summary and other relevant features.
 
 Modularized the problem into 2 sub-problems:
